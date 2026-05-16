@@ -1,4 +1,4 @@
-# Notes on Cofinality
+# Notes on Consistency Results
 This repository contains the entire LaTeX project of my personal notes on Consistency Results, based on Kunen's book - An Introduction to Independence Proofs.
 
 ## Pdf File
